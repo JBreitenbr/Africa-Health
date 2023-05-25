@@ -1,0 +1,57 @@
+adm0_a3_is,geounit,Region,Capital,population,life_expectancy,infant_deaths,under5_deaths
+DZA,Algeria,North,Algier,45061896,76.38,19.2,22.3
+AGO,Angola,Southern,Luanda,34566172,61.64,47.2,69.4
+BEN,Benin,West,Porto-Novo,12644580,59.82,55.2,83.5
+BWA,Botswana,Southern,Gaborone,2423535,61.14,28.3,34.9
+BFA,Burkina Faso,West,Ouagadougou,2184968,59.27,51.8,82.6
+BDI,Burundi,East,Gitega,12469663,61.66,37.6,52.6
+CMR,Cameroon,Central,Yaounde,27624492,60.33,47.0,69.8
+CPV,Cape Verde,West,Praia,565346,74.05,11.7,13.5
+CAF,Central African Republic,Central,Bangui,4971922,53.9,75.4,99.9
+TCD,Chad,West,N'Djamena,17203787,52.52,66.0,107.1
+COM,Comoros,Southern,Moroni,899658,63.42,39.3,49.7
+COD,Democratic Republic of the Congo,Central,Kinshasa,95894118,59.19,62.4,79.0
+DJI,Djibouti,East,Djibouti,1010377,62.3,45.9,54.1
+EGY,Egypt,North,Cairo,105390688,70.22,16.2,19.0
+GNQ,Equatorial Guinea,Central,Malabo,1477483,60.59,57.2,76.8
+ERI,Eritrea,East,Asmara,3633796,66.54,28.9,38.1
+SWZ,Eswatini,Southern,Mbabane,1192271,57.07,41.5,52.6
+ETH,Ethiopia,East,Addis Abeba,119590501,64.97,34.3,46.8
+GAB,Gabon,Central,Libreville,2310507,65.82,29.4,39.7
+GMB,Gambia,West,Banjul,2528326,62.08,34.0,47.9
+GHA,Ghana,West,Accra,32120718,63.8,32.6,44.0
+GIN,Guinea,West,Conakry,13709966,58.89,63.8,98.7
+GNB,Guinea Bissau,West,Bissau,2043512,59.65,50.0,74.3
+CIV,Ivory Coast,West,Yamoussoukro,27451054,58.6,55.9,74.8
+KEN,Kenya,East,Nairobi,55703607,61.43,28.0,37.2
+LSO,Lesotho,Southern,Maseru,2169209,53.06,57.0,72.9
+LBR,Liberia,West,Monrovia,5252834,60.75,56.7,76.0
+LBY,Libya,North,Tripolis,7007887,71.91,9.2,10.8
+MDG,Madagascar,Southern,Antananarivo,28860961,64.48,45.3,66.0
+MWI,Malawi,Southern,Lilongwe,19953296,62.9,31.2,41.9
+MLI,Mali,West,Bamako,21212426,58.94,61.6,97.1
+MRT,Mauritania,West,Nouakchott,4848828,64.36,32.2,40.5
+MAR,Morocco,North,Rabat,37599544,74.04,15.4,18.0
+MAR,Western Sahara,North,"El Aayoun",620280,74.04,15.4,18.0
+MOZ,Mozambique,Southern,Maputi,32696683,59.32,51.0,69.6
+NAM,Namibia,Southern,Windhoek,2614500,59.27,29.4,39.0
+NER,Niger,West,Niamey,25677816,61.58,59.5,115.2
+NGA,Nigeria,West,Abuja,214507696,52.68,70.6,110.8
+COG,Republic of Congo,Central,Brazzaville,5835806,63.52,32.0,43.0
+RWA,Rwanda,East,Kigali,13466174,66.07,29.7,39.4
+STP,Sao Tome and Principe,Central,Sao Tome,225954,67.59,12.1,15.4
+SEN,Senegal,West,Dakar,17462688,67.09,29.1,38.6
+SYC,Seychelles,East,Victoria,99124,73.4,12.0,13.9
+SLE,Sierra Leone,West,Freetown,8238113,60.06,78.3,104.7
+SOM,Puntland,East,Garoowe,16634297,55.28,71.1,111.8
+SOM,Somaliland,East,Hargeysa,16634297,55.28,71.1,111.8
+SOM,Somalia,East,Mogadishu,16634297,55.28,71.1,111.8
+ZAF,South Africa,Southern,Pretoria,60474550,62.34,26.4,32.8
+SSD,South Sudan,East,Juba,11493450,54.98,63.8,98.7
+SDN,Sudan,East,Khartoum,45532863,65.27,38.9,54.9
+TZA,Tanzania,East,Dodoma,62539416,66.2,34.1,47.1
+TGO,Togo,West,Lome,8596357,61.62,43.4,62.6
+TUN,Tunisia,North,Tunis,12003225,73.77,14.0,16.3
+UGA,Uganda,East,Kampala,47942521,62.7,31.2,42.1
+ZMB,Zambia,Southern,Lusaka,19238117,61.22,40.2,57.7
+ZWE,Zimbabwe,Southern,Harare,15229891,59.25,35.7,49.5
