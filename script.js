@@ -190,7 +190,7 @@ for(let i=0;i<56;i++){
 
   }
 
-}          toolTip.style("visibility","visible").style("left",event.pageX+w/60+"px").style("top",event.pageY+h/50+"px").style("background-color","papayawhip").attr("class","tip").style("border",`1px solid ${color(0.5*(vals2[dimObj[dim]["maxi"]]-vals2[dimObj[dim]["mini"]]))}`).style("font","10px arial")}).on("mouseleave",(cntItem)=>{toolTip.style("visibility","hidden");});
+}          toolTip.style("visibility","visible").style("left",event.pageX+w/60+"px").style("top",event.pageY+h/50+"px").style("background-color","#fff8ed").attr("class","tip").style("border",`1px solid ${color(0.5*(vals2[dimObj[dim]["maxi"]]-vals2[dimObj[dim]["mini"]]))}`).style("font","10px arial")}).on("mouseleave",(cntItem)=>{toolTip.style("visibility","hidden");});
 
   let calcString = +(h / w) * 100 + "%";
 
