@@ -186,7 +186,7 @@ for(let i=0;i<56;i++){
 
   if(vals[i]["adm0_a3_is"]==adm0_a3_is){
 
-    toolTip.html("Country: "+vals[i]["geounit"]+"<br> Capital: "+vals[i]["Capital"]+"<br> Population (2021): "+vals[i]["population"]+"<br>" + dim+": "+vals[i][dimObj[dim]]);
+    toolTip.html("Country: "+vals[i]["geounit"]+"<br> Capital: "+vals[i]["Capital"]+"<br> Population (2021): "+vals[i]["population"]+"<br>" + dim+" (2021): "+vals[i][dimObj[dim]]);
 
   }
 
